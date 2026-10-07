@@ -237,4 +237,4 @@ This repository serves as the official landing page for Control Kids. The softwa
 **Get the most recent version of Control Kids today!**
 
 ---
-**Last updated:** 2026-10-07 14:22:00 UTC
+**Last updated:** 2026-10-07 20:27:20 UTC
